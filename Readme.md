@@ -5,4 +5,6 @@ You have to install `python3.7`, `ipython-notebook` to open the instructions fil
 The simplist way is installing `anaconda`. 
 Please follow this link to get installation guidance: https://docs.anaconda.com/anaconda/install 
 
-If you have issues with environment setup, you can contact me through [email](mailto:zhen@jh.edu)
+If you have issues with environment setup or implementations,
+you can contact me through [email](mailto:zhen@jh.edu) or open an issue at Github repo.
+
