@@ -7,4 +7,4 @@ Please follow this link to get installation guidance: https://docs.anaconda.com/
 
 If you have issues with environment setup or implementations,
 you can contact me through [email](mailto:zhen@jh.edu) or open an issue at Github repo.
-
+(I have created an account for this homework. If you need, email me.)
